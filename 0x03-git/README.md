@@ -1,1 +1,1 @@
-ALX project learning git 
+This is a project on git 
